@@ -1,0 +1,4 @@
+*.json
+*.tar
+.ipynb_checkpoints/*
+yenv/*
